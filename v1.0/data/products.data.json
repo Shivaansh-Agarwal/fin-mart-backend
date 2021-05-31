@@ -1,0 +1,594 @@
+[
+  {
+    "name": "Common Sense on Mutual Funds",
+    "description": "Hardcover",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/81+VdrK1MIL.jpg"
+    ],
+    "inStock": true,
+    "price": {
+      "originalPrice": 2474,
+      "discountedPrice": 2249,
+      "discount": 225,
+      "discountPercentage": "9% off"
+    },
+    "additionalDetails": {
+      "author": "John C. Bogle",
+      "publisher": "Wiley; 2nd edition (12 January 2010); BOOKZONE INDIA Mob : +91-7738588170",
+      "language": "English",
+      "pages": "656 pages",
+      "isbn10": "0470138130",
+      "isbn13": "978-0470138137",
+      "weight": "990 g",
+      "dimensions": "15.49 x 4.83 x 23.11 cm",
+      "countryOfOrigin": "India"
+    },
+    "links": {
+      "amazon": "https://www.amazon.in/Common-Sense-Mutual-Funds-Bogle/dp/0470138130"
+    },
+    "ratings": {
+      "avgRatings": 4.5,
+      "totalRatings": 271
+    },
+    "badge": {
+      "tagName": "NATIONAL BESTSELLER",
+      "showBadge": true
+    },
+    "metaData": {}
+  },
+  {
+    "name": "Mutual Fund Industry Handbook",
+    "description": "Hardcover",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/61oUxSWaolL.jpg"
+    ],
+    "inStock": true,
+    "price": {
+      "originalPrice": 5782,
+      "discountedPrice": 5782,
+      "discount": 0,
+      "discountPercentage": "0% off"
+    },
+    "additionalDetails": {
+      "author": "Lee Gremillion",
+      "publisher": "Wiley; 1st edition (23 September 2005)",
+      "language": "English",
+      "pages": "400 pages",
+      "isbn10": "0471736244",
+      "isbn13": "978-0471736240",
+      "weight": "728 g",
+      "dimensions": "16 x 3.05 x 23.62 cm",
+      "countryOfOrigin": "India"
+    },
+    "links": {
+      "amazon": "https://www.amazon.in/Mutual-Fund-Industry-Handbook-Comprehensive/dp/0471736244"
+    },
+    "ratings": {
+      "avgRatings": 4.5,
+      "totalRatings": 15
+    },
+    "badge": {
+      "tagName": "",
+      "showBadge": false
+    },
+    "metaData": {}
+  },
+  {
+    "name": "Let's Talk Money",
+    "description": "Paperback",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/51YJ9xQuWfS.jpg"
+    ],
+    "inStock": true,
+    "price": {
+      "originalPrice": 399.0,
+      "discountedPrice": 257.0,
+      "discount": 142.0,
+      "discountPercentage": "36% off"
+    },
+    "additionalDetails": {
+      "author": "Monika Halan",
+      "publisher": "HarperBusiness; 1st edition (5 July 2018)",
+      "language": "English",
+      "pages": "204 pages",
+      "isbn10": "9789352779390",
+      "isbn13": "978-9352779390",
+      "weight": "250 g",
+      "dimensions": "14 x 1.6 x 21.5 cm",
+      "countryOfOrigin": "India"
+    },
+    "links": {
+      "amazon": "https://www.amazon.in/Lets-Talk-Money-Youve-Worked/dp/9352779398"
+    },
+    "ratings": {
+      "avgRatings": 4.5,
+      "totalRatings": 940
+    },
+    "badge": {
+      "tagName": "NATIONAL BESTSELLER",
+      "showBadge": true
+    },
+    "metaData": {}
+  },
+  {
+    "name": "The Psychology of Money",
+    "description": "Paperback",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/81cpDaCJJCL.jpg"
+    ],
+    "inStock": true,
+    "price": {
+      "originalPrice": 399.0,
+      "discountedPrice": 299.0,
+      "discount": 100.0,
+      "discountPercentage": "25% off"
+    },
+    "additionalDetails": {
+      "author": "Morgan Housel",
+      "publisher": "Jaico Publishing House",
+      "language": "English",
+      "pages": "252 pages",
+      "isbn10": "9390166268",
+      "isbn13": "978-9390166268",
+      "weight": "220 g",
+      "dimensions": "20 x 14 x 4 cm",
+      "countryOfOrigin": "India"
+    },
+    "links": {
+      "amazon": "https://www.amazon.in/Psychology-Money-Morgan-Housel/dp/9390166268"
+    },
+    "ratings": {
+      "avgRatings": 4.6,
+      "totalRatings": 8139
+    },
+    "badge": {
+      "tagName": "WORLDWIDE BESTSELLER",
+      "showBadge": true
+    },
+    "metaData": {}
+  },
+  {
+    "name": "Rich Dad, Poor Dad",
+    "description": "Paperback",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/91VokXkn8hL.jpg"
+    ],
+    "inStock": true,
+    "price": {
+      "originalPrice": 499.0,
+      "discountedPrice": 444.0,
+      "discount": 55.0,
+      "discountPercentage": "11% off"
+    },
+    "additionalDetails": {
+      "author": "Robert T. Kiyosaki",
+      "publisher": "Plata Publishing; Second edition (11 April 2017)",
+      "language": "English",
+      "pages": "336 pages",
+      "isbn10": "1612680194",
+      "isbn13": "978-1612680194",
+      "weight": "204 g",
+      "dimensions": "10.8 x 2.54 x 17.78 cm",
+      "countryOfOrigin": "USA"
+    },
+    "links": {
+      "amazon": "https://www.amazon.in/Rich-Dad-Poor-Middle-Updates/dp/1612680194"
+    },
+    "ratings": {
+      "avgRatings": 4.6,
+      "totalRatings": 39066
+    },
+    "badge": {
+      "tagName": "WORLDWIDE BESTSELLER",
+      "showBadge": true
+    },
+    "metaData": {}
+  },
+  {
+    "name": "The Richest Man in Babylon",
+    "description": "Paperback",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/81+ybHMWm9L.jpg"
+    ],
+    "inStock": true,
+    "price": {
+      "originalPrice": 150.0,
+      "discountedPrice": 99.0,
+      "discount": 51.0,
+      "discountPercentage": "34% off"
+    },
+    "additionalDetails": {
+      "author": "George S. Clason",
+      "publisher": "Fingerprint! Publishing (1 August 2018)",
+      "language": "English",
+      "pages": "152 pages",
+      "isbn10": "9789388144315",
+      "isbn13": "978-9388144315",
+      "weight": "120 g",
+      "dimensions": "20 x 14 x 4 cm",
+      "countryOfOrigin": "India"
+    },
+    "links": {
+      "amazon": "https://www.amazon.in/Richest-Man-Babylon-George-Clason/dp/938814431"
+    },
+    "ratings": {
+      "avgRatings": 4.4,
+      "totalRatings": 16855
+    },
+    "badge": {
+      "tagName": "WORLDWIDE BESTSELLERS",
+      "showBadge": true
+    },
+    "metaData": {}
+  },
+  {
+    "name": "The Intelligent Investor",
+    "description": "Paperback",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/91+t0Di07FL.jpg"
+    ],
+    "inStock": true,
+    "price": {
+      "originalPrice": 799.0,
+      "discountedPrice": 516.0,
+      "discount": 283.0,
+      "discountPercentage": "35% off"
+    },
+    "additionalDetails": {
+      "author": "Benjamin Graham",
+      "publisher": "Harper Business; 2011th edition (1 January 2003)",
+      "language": "English",
+      "pages": "623 pages",
+      "isbn10": "9780062312686",
+      "isbn13": "978-2156988579",
+      "weight": "580 g",
+      "dimensions": "20 x 14 x 4 cm",
+      "countryOfOrigin": "India"
+    },
+    "links": {
+      "amazon": "https://www.amazon.in/Intelligent-Investor-English-Paperback-2013/dp/0062312685"
+    },
+    "ratings": {
+      "avgRatings": 4.5,
+      "totalRatings": 22224
+    },
+    "badge": {
+      "tagName": "WORLDWIDE BESTSELLERS",
+      "showBadge": true
+    },
+    "metaData": {}
+  },
+  {
+    "name": "Think and Grow Rich",
+    "description": "Paperback",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/71AdHA+qqwL.jpg"
+    ],
+    "inStock": true,
+    "price": {
+      "originalPrice": 175.0,
+      "discountedPrice": 139.0,
+      "discount": 36.0,
+      "discountPercentage": "21% off"
+    },
+    "additionalDetails": {
+      "author": "Napoleon Hill",
+      "publisher": "Amazing Reads (1 January 2014)",
+      "language": "English",
+      "pages": "250 pages",
+      "isbn10": "8192910911",
+      "isbn13": "978-8192910918",
+      "weight": "310 g",
+      "dimensions": "13 x 1.5 x 20 cm",
+      "countryOfOrigin": "India"
+    },
+    "links": {
+      "amazon": "https://www.amazon.in/Think-Grow-Rich-Napoleon-Hill/dp/8192910911"
+    },
+    "ratings": {
+      "avgRatings": 4.5,
+      "totalRatings": 45479
+    },
+    "badge": {
+      "tagName": "",
+      "showBadge": false
+    },
+    "metaData": {}
+  },
+  {
+    "name": "The Science of Getting Rich with The Science of Being Great",
+    "description": "Paperback",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/61eRa5sjCWL.jpg"
+    ],
+    "inStock": true,
+    "price": {
+      "originalPrice": 150.0,
+      "discountedPrice": 99.0,
+      "discount": 51.0,
+      "discountPercentage": "34% off"
+    },
+    "additionalDetails": {
+      "author": "Wallace D. Wattles",
+      "publisher": "Fingerprint! Publishing (1 September 2019)",
+      "language": "English",
+      "pages": "250 pages",
+      "isbn10": "8192910911",
+      "isbn13": "978-8192910918",
+      "weight": "310 g",
+      "dimensions": "13 x 1.5 x 20 cm",
+      "countryOfOrigin": "India"
+    },
+    "links": {
+      "amazon": "https://www.amazon.in/Science-Getting-Rich-Being-Great/dp/9389432928"
+    },
+    "ratings": {
+      "avgRatings": 4.5,
+      "totalRatings": 81
+    },
+    "badge": {
+      "tagName": "",
+      "showBadge": false
+    },
+    "metaData": {}
+  },
+  {
+    "name": "How To Raise Your Own Salary",
+    "description": "Paperback",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/61xEpRzB-vL.jpg"
+    ],
+    "inStock": true,
+    "price": {
+      "originalPrice": 199.0,
+      "discountedPrice": 119.0,
+      "discount": 80.0,
+      "discountPercentage": "40% off"
+    },
+    "additionalDetails": {
+      "author": "Napoleon Hill",
+      "publisher": "Fingerprint! Publishing (1 March 2020)",
+      "language": "English",
+      "pages": "320 pages",
+      "isbn10": "9389931185",
+      "isbn13": "978-9389931181",
+      "weight": "590 g",
+      "dimensions": "20 x 14 x 4 cm",
+      "countryOfOrigin": "India"
+    },
+    "links": {
+      "amazon": "https://www.amazon.in/dp/9389931185"
+    },
+    "ratings": {
+      "avgRatings": 4.5,
+      "totalRatings": 332
+    },
+    "badge": {
+      "tagName": "",
+      "showBadge": false
+    },
+    "metaData": {}
+  },
+  {
+    "name": "Master Your Money, Master Your Life",
+    "description": "Paperback",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/71dV8x1mOQL.jpg"
+    ],
+    "inStock": true,
+    "price": {
+      "originalPrice": 295.0,
+      "discountedPrice": 242.0,
+      "discount": 53.0,
+      "discountPercentage": "18% off"
+    },
+    "additionalDetails": {
+      "author": "Abhishek Kumar",
+      "publisher": "Wisdom Tree (25 March 2019); Wisdom Tree, 4779/23, Ansari Road, New Delhi-2",
+      "language": "English",
+      "pages": "284 pages",
+      "isbn10": "8183285309",
+      "isbn13": "978-8183285308",
+      "weight": "295 g",
+      "dimensions": "20 x 14 x 4 cm",
+      "countryOfOrigin": "India"
+    },
+    "links": {
+      "amazon": "https://www.amazon.in/dp/8183285309"
+    },
+    "ratings": {
+      "avgRatings": 4.5,
+      "totalRatings": 111
+    },
+    "badge": {
+      "tagName": "NATIONAL BESTSELLER",
+      "showBadge": true
+    },
+    "metaData": {}
+  },
+  {
+    "name": "VALUE INVESTING AND BEHAVIORAL FINANCE: INSIGHTS INTO INDIAN STOCK MARKET REALITIES",
+    "description": "Hardcover",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/51fcFy61cCL.jpg"
+    ],
+    "inStock": false,
+    "price": {
+      "originalPrice": 609.0,
+      "discountedPrice": 609.0,
+      "discount": 0,
+      "discountPercentage": ""
+    },
+    "additionalDetails": {
+      "author": "Parag Parikh",
+      "publisher": "McGraw Hill Education; 1st edition (1 July 2017)",
+      "language": "English",
+      "pages": "352 pages",
+      "isbn10": "9780070077638",
+      "isbn13": "978-0070077638",
+      "weight": "636 g",
+      "dimensions": "40.4 x 5.8 x 60.7 cm",
+      "countryOfOrigin": "India"
+    },
+    "links": {
+      "amazon": "https://www.amazon.in/dp/0070077630"
+    },
+    "ratings": {
+      "avgRatings": 4.4,
+      "totalRatings": 396
+    },
+    "badge": {
+      "tagName": "NATIONAL BESTSELLER",
+      "showBadge": true
+    },
+    "metaData": {}
+  },
+  {
+    "name": "The Joys Of Compounding: The Passionate Pursuit of Lifelong Learning",
+    "description": "Paperback",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/715g4KWds8L.jpg"
+    ],
+    "inStock": true,
+    "price": {
+      "originalPrice": 499.0,
+      "discountedPrice": 324.0,
+      "discount": 175.0,
+      "discountPercentage": "35% off"
+    },
+    "additionalDetails": {
+      "author": "Gautam Baid",
+      "publisher": "HarperBusiness (20 November 2020)",
+      "language": "English",
+      "pages": "456 pages",
+      "isbn10": "9390351014",
+      "isbn13": "978-9390351015",
+      "weight": "400 g",
+      "dimensions": "",
+      "countryOfOrigin": "India"
+    },
+    "links": {
+      "amazon": "https://www.amazon.in/dp/9390351014"
+    },
+    "ratings": {
+      "avgRatings": 4.6,
+      "totalRatings": 479
+    },
+    "badge": {
+      "tagName": "NATIONAL BESTSELLER",
+      "showBadge": true
+    },
+    "metaData": {}
+  },
+  {
+    "name": "The Richest Engineer",
+    "description": "Paperback",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/71PAkFbhJFL.jpg"
+    ],
+    "inStock": true,
+    "price": {
+      "originalPrice": 350.0,
+      "discountedPrice": 278.0,
+      "discount": 72.0,
+      "discountPercentage": "21% off"
+    },
+    "additionalDetails": {
+      "author": "Abhishek Kumar",
+      "publisher": "Manjul Publishing House (12 August 2016)",
+      "language": "English",
+      "pages": "268 pages",
+      "isbn10": "9381506876",
+      "isbn13": "978-9381506875",
+      "weight": "222 g",
+      "dimensions": "20 x 14 x 4 cm",
+      "countryOfOrigin": "India"
+    },
+    "links": {
+      "amazon": "https://www.amazon.in/dp/9381506876"
+    },
+    "ratings": {
+      "avgRatings": 4.5,
+      "totalRatings": 171
+    },
+    "badge": {
+      "tagName": "NATIONAL BESTSELLER",
+      "showBadge": true
+    },
+    "metaData": {}
+  },
+  {
+    "name": "The Compound Effect",
+    "description": "Hardcover",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/51Bz60iDotL.jpg"
+    ],
+    "inStock": true,
+    "price": {
+      "originalPrice": 1899.0,
+      "discountedPrice": 999.0,
+      "discount": 900.0,
+      "discountPercentage": "47% off"
+    },
+    "additionalDetails": {
+      "author": "Perseus",
+      "publisher": "Carroll & Graf; Reprint edition (1 November 2011)",
+      "language": "English",
+      "pages": "192 pages",
+      "isbn10": "1593157134",
+      "isbn13": "978-1593157135",
+      "weight": "263 g",
+      "dimensions": "14.61 x 2.54 x 19.69 cm",
+      "countryOfOrigin": "India"
+    },
+    "links": {
+      "amazon": "https://www.amazon.in/dp/1593157134"
+    },
+    "ratings": {
+      "avgRatings": 4.7,
+      "totalRatings": 4725
+    },
+    "badge": {
+      "tagName": "WORLDWIDE BESTSELLER",
+      "showBadge": true
+    },
+    "metaData": {}
+  },
+  {
+    "name": "One Up On Wall Street: How to Use What You Already Know to Make Money in the Market",
+    "description": "Paperback",
+    "images": [
+      "https://images-na.ssl-images-amazon.com/images/I/81O-dMP4VcL.jpg"
+    ],
+    "inStock": true,
+    "price": {
+      "originalPrice": 599.0,
+      "discountedPrice": 445.0,
+      "discount": 154.0,
+      "discountPercentage": "26% off"
+    },
+    "additionalDetails": {
+      "author": "Peter Lynch",
+      "publisher": "Simon & Schuster; Business edition (3 April 2000)",
+      "language": "English",
+      "pages": "304 pages",
+      "isbn10": "0743200403",
+      "isbn13": "978-0743200400",
+      "weight": "249 g",
+      "dimensions": "13.97 x 2.03 x 21.43 cm",
+      "countryOfOrigin": "India"
+    },
+    "links": {
+      "amazon": "https://www.amazon.in/dp/0743200403"
+    },
+    "ratings": {
+      "avgRatings": 4.4,
+      "totalRatings": 3916
+    },
+    "badge": {
+      "tagName": "WORLDWIDE BESTSELLER",
+      "showBadge": true
+    },
+    "metaData": {}
+  }
+]
