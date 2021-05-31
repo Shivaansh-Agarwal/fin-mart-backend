@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Books on Stock Market",
+    "offer": "5% off",
+    "description": "Find best books from all over the world on Stock Market Investing!",
+    "imgURL": "https://d3po6s2ufk88fh.cloudfront.net/800x533/blog/46cc4459e03340ea9a98a30a136012b9.jpg"
+  },
+  {
+    "name": "Personal Finance Books",
+    "offer": "Upto 20% off",
+    "description": "Find best books from all over the world on Personal Finance!",
+    "imgURL": "https://www.thebalance.com/thmb/s_eaSnlo6_LrajKZ5tSVKtIgF-Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-personal-finance-books-4154809-ADD-FINAL-V2-72fb407d243a43b68f39ce8dc959fa46.png"
+  },
+  {
+    "name": "Books on Mutual Funds",
+    "offer": "10% off",
+    "description": "Discover the best books from all over the world on Mutual Funds!",
+    "imgURL": "https://www.outlookindia.com/outlookmoney/public/uploads/article/gallery/9a0f1767cab59da853209d00c9235c94.jpg"
+  },
+  {
+    "name": "Books on Real Estate Investing",
+    "offer": "Upto 7% off",
+    "description": "Find a Collection of best Real-Estate Books",
+    "imgURL": "https://financialmentor.com/wp-content/uploads/Best-real-estate-investing-books.jpg"
+  },
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "row": 2,
+    "name": "The Intelligent Investor",
+    "description": "Benjamin Graham",
+    "discount": "2% off",
+    "imgURL": "https://target.scene7.com/is/image/Target/GUEST_4f0a0050-6cfc-4d02-9d14-7b9c26d8519b?wid=488&hei=488&fmt=pjpeg"
+  },
+  {
+    "row": 2,
+    "name": "The Richest Man in Babylon",
+    "description": "George S. Clason",
+    "discount": "",
+    "imgURL": "https://www.booklane.in/image/cache/catalog/product/pibd2/the-richest-man-in-babylon-fingerprint-250x250.jpg"
+  },
+  {
+    "row": 2,
+    "name": "The Psychology of Money: Timeless lessons on wealth, greed, and happiness",
+    "description": "Morgan Housel",
+    "discount": "6% off",
+    "imgURL": "https://www.onlinebooksoutlet.com/wp-content/uploads/2021/01/buy-the-psychology-of-money-online-OnlineBooksOutlet-600x651.jpg"
+  },
+  {
+    "row": 2,
+    "name": "The Compound Effect",
+    "description": "Darren Hardy",
+    "discount": "6% off",
+    "imgURL": "https://target.scene7.com/is/image/Target/GUEST_3cdc6b14-7de2-4a06-9454-fb60b6d954aa?wid=488&hei=488&fmt=pjpeg"
+  },
+  {
+    "row": 2,
+    "name": "One Up On Wall Street",
+    "description": "Peter Lynch",
+    "discount": "6% off",
+    "imgURL": "https://cf.shopee.sg/file/652907f6bdd58d314f0bc638afbfc31d"
+  },
+  {
+    "row": 4,
+    "name": "Master your Money Master your Life",
+    "description": "Abhishek Kumar",
+    "discount": "12% off",
+    "imgURL": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552248357i/44323884._UY574_SS574_.jpg"
+  },
+  {
+    "row": 4,
+    "name": "The Joys Of Compounding: The Passionate Pursuit of Lifelong Learning",
+    "description": "Gautam Baid",
+    "discount": "10% off",
+    "imgURL": "https://images-eu.ssl-images-amazon.com/images/I/71WTpEDFZQL._AC_UL600_SR600,600_.jpg"
+  },
+  {
+    "row": 4,
+    "name": "Let's Talk Money",
+    "description": "Monika Halan",
+    "discount": "4% off",
+    "imgURL": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528548080i/40499078._UY499_SS499_.jpg"
+  },
+  {
+    "row": 4,
+    "name": "The Richest Engineer",
+    "description": "Abhishek Kumar",
+    "discount": "10% off",
+    "imgURL": "https://www.booklane.in/image/cache/catalog/product/pibd2/the-richest-engineer-250x250.jpg"
+  },
+  {
+    "row": 4,
+    "name": "Value Investing and Behavioral Finance: Insights into Indian Stock Market Realities",
+    "description": "Parag Parikh",
+    "discount": "10% off",
+    "imgURL": "https://images-eu.ssl-images-amazon.com/images/I/51fcFy61cCL._AC_UL600_SR600,600_.jpg"
+  }
+]

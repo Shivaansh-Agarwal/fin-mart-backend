@@ -5,6 +5,7 @@ const { initializeDBConnection } = require("./db/db.connect.js");
 const {routeNotFoundHandler} = require("./middlewares/routeNotFoundHandler.js");
 const {errorHandler} = require("./middlewares/errorHandler.js");
 const productRouter = require("./v1.0/routes/product.routes.js");
+const campaignRouter = require("./v1.0/routes/campaign.routes.js");
 
 // Called before any route handler
 initializeDBConnection();
@@ -17,6 +18,7 @@ app.use(cors());
 
 // Routes
 app.use("/api/v1/products", productRouter);
+app.use("/api/v1/campaigns", campaignRouter);
 
 app.get('/',(req, res) => {
   res.send("EMART Backend");
