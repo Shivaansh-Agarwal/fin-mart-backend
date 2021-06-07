@@ -19,6 +19,7 @@ const productSchema = new Schema(
       type: Boolean,
       required: [true, "Product should have a stock value"]
     },
+    categories: [String],
     price: {
       originalPrice: {
         type: Number,
