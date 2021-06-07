@@ -46,12 +46,6 @@ router
     }
   });
 
-router
-  .route("/home")
-  .get(async(req, res) => {
-    
-  })
-
 router.param("id", async (req, res, next, id) => {
   try {
     const product = await Product.findById(id);

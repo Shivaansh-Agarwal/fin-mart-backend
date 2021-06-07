@@ -17,7 +17,9 @@ const campaignSchema = new Schema({
     type: String,
     required: [true, "Image URL is mandatory"]
   },
-  category: [String],
+  category: {
+    type: String
+  },
 },{ 
     timestamps: { createdAt: "created_at", updatedAt: "updated_at" } 
 });
