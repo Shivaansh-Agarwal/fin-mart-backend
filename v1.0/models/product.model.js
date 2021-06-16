@@ -20,6 +20,14 @@ const productSchema = new Schema(
       required: [true, "Product should have a stock value"]
     },
     categories: [String],
+    overview: {
+      type: [String],
+      required: true
+    },
+    aboutAuthor: {
+      type: [String],
+      required: true
+    },
     price: {
       originalPrice: {
         type: Number,
