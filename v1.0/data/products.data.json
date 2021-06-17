@@ -5,7 +5,10 @@
     "https://images-na.ssl-images-amazon.com/images/I/91VokXkn8hL.jpg"
   ],
   "inStock": true,
-  "categories": ["PERSONAL_FINANCE", "REAL_ESTATE"],
+  "categories": [
+    "PERSONAL_FINANCE",
+    "REAL_ESTATE"
+  ],
   "price": {
     "originalPrice": 499,
     "discountedPrice": 444,
@@ -34,7 +37,20 @@
     "tagName": "",
     "showBadge": false
   },
-  "metaData": {}
+  "metaData": {},
+  "aboutAuthor": [
+    "Best known as the author of Rich Dad Poor Dad―the #1 personal finance book of all time―Robert Kiyosaki has challenged and changed the way tens of millions of people around the world think about money. He is an entrepreneur, educator, and investor who believes that each of us has the power to makes changes in our lives, take control of our financial future, and live the rich life we deserve. With perspectives on money and investing that often contradict conventional wisdom, Robert has earned an international reputation for straight talk, irreverence, and courage and has become a passionate and outspoken advocate for financial education. Robert's most recent books―Why the Rich Are Getting Richer and More Important Than Money―were published in the spring of last year to mark the 20th Anniversary of the 1997 release of Rich Dad Poor Dad. That book and its messages, viewed around the world as a classic in the personal finance arena, have stood the test of time. Why the Rich Are Getting Richer, released two decades after the international blockbuster bestseller Rich Dad Poor Dad, is positioned as Rich Dad Graduate School. Robert has also co-authored two books with Donald Trump, prior to his successful bid for the White House and election as President of the United States."
+  ],
+  "created_at": {
+    "$date": "2021-06-16T20:43:57.703Z"
+  },
+  "overview": [
+    "It's been nearly 25 years since Robert Kiyosaki’s Rich Dad Poor Dad first made waves in the Personal Finance arena. It has since become the #1 Personal Finance book of all time... translated into dozens of languages and sold around the world.",
+    "Rich Dad Poor Dad is Robert's story of growing up with two dads — his real father and the father of his best friend, his rich dad — and the ways in which both men shaped his thoughts about money and investing. The book explodes the myth that you need to earn a high income to be rich and explains the difference between working for money and having your money work for you."
+  ],
+  "updated_at": {
+    "$date": "2021-06-16T20:43:57.703Z"
+  }
 },{
   "name": "The Richest Man in Babylon",
   "description": "Paperback",
@@ -43,7 +59,9 @@
     "https://www.booklane.in/image/cache/catalog/product/pibd2/the-richest-man-in-babylon-fingerprint-250x250.jpg"
   ],
   "inStock": true,
-  "categories": ["PERSONAL_FINANCE"],
+  "categories": [
+    "PERSONAL_FINANCE"
+  ],
   "price": {
     "originalPrice": 150,
     "discountedPrice": 99,
@@ -72,7 +90,21 @@
     "tagName": "WORLDWIDE BESTSELLER",
     "showBadge": true
   },
-  "metaData": {}
+  "metaData": {},
+  "aboutAuthor": [
+    "George Samuel Clason was born in Louisiana, Missouri, on November 7, 1874. He attended the University of Nebraska and served in the United States Army during the Spanish-American War. Beginning a long career in publishing, he founded the Clason Map Company of Denver, Colorado and published the first road atlas of the United States and Canada. In 1926, he issued the first of a famous series of pamphlets on thrift and financial success, using parables set in ancient Babylon to make each of his points. These were distributed in large quantities by banks and insurance companies and became familiar to millions, the most famous being “The Richest Man in Babylon,” the parable from which the present volume takes its title. These “Babylonian parables” have become a modern inspirational classic."
+  ],
+  "created_at": {
+    "$date": "2021-06-16T20:35:05.906Z"
+  },
+  "overview": [
+    "If you have a lean purse and are looking for financial wisdom, you’ve picked the perfect book! A PART OF ALL YOU EARN IS YOURS TO KEEP.",
+    "From the importance of savings to the essentials on how to become wealthy, this collection of famous Babylonian parables imparts timeless financial wisdom. It offers insights on how to become wealthy and how to attract good luck and discusses the five laws of gold.",
+    "A perfect guide to understanding finances and a powerhouse of time-tested principles to gain and retain personal wealth, The Richest Man in Babylon has been inspiring readers for generations. It continues to remain a classic bestseller."
+  ],
+  "updated_at": {
+    "$date": "2021-06-16T20:37:41.407Z"
+  }
 },{
   "name": "How To Raise Your Own Salary",
   "description": "Paperback",
@@ -80,7 +112,9 @@
     "https://images-na.ssl-images-amazon.com/images/I/61xEpRzB-vL.jpg"
   ],
   "inStock": true,
-  "categories": ["PERSONAL_FINANCE"],
+  "categories": [
+    "PERSONAL_FINANCE"
+  ],
   "price": {
     "originalPrice": 199,
     "discountedPrice": 119,
@@ -109,7 +143,19 @@
     "tagName": "",
     "showBadge": false
   },
-  "metaData": {}
+  "metaData": {},
+  "aboutAuthor": [
+    "Napoleon Hill, born in Pound, Southwest Virginia in 1883, was a very successful American author in the area of the new thought movement—one of the earliest producers of the modern genre of personal-success literature. He is widely considered to be one of the great writers on success. Hill had to drop out of college because of lack of funds to support his education. The turning point in his life occurred in 1908 when he interviewed the industrialist Andrew Carnegie, the most powerful man in the world at that time, as a part of an assignment. As a result of Hill’s studies via Carnegie’s introductions, the Philosophy of Achievement was offered as a formula for rags-to-riches success by Hill and Carnegie. It was published initially in 1928 as the multi-volume study course The Law of Success in Sixteen Lessons. He later produced his most famous work, Think and Grow Rich, which is one of the bestselling books of all time. Hill, who had even served as the advisor to President Franklin D. Roosevelt from 1933-36, passed away at the age of 87."
+  ],
+  "created_at": {
+    "$date": "2021-06-16T20:45:27.222Z"
+  },
+  "overview": [
+    "Do you wish to acquire the wealth, power, and prestige that you always dreamed of? Then this is the book for you. In how to raise your own salary, Napoleon Hill brings to light a blueprint of success. In it are seventeen principles of personal achievement, such as ‘go the extra mile,’ ‘Develop an attractive personality,’ ‘cultivate a creative vision,’ to name a few. These steps of personal growth and advancement were taught to Hill by Andrew Carnegie, a man who rose to the heights of success at a time when he had little money, schooling, and influence. Giving a timeless, practical philosophy of success through the lifetime experiences of the greatest industrialist of his time, this book will help you in making your dreams a reality."
+  ],
+  "updated_at": {
+    "$date": "2021-06-16T20:45:27.222Z"
+  }
 },{
   "name": "The Intelligent Investor",
   "description": "Paperback",
@@ -118,7 +164,10 @@
     "https://target.scene7.com/is/image/Target/GUEST_4f0a0050-6cfc-4d02-9d14-7b9c26d8519b?wid=488&hei=488&fmt=pjpeg"
   ],
   "inStock": true,
-  "categories": ["STOCKS", "MUTUAL_FUNDS"],
+  "categories": [
+    "STOCKS",
+    "MUTUAL_FUNDS"
+  ],
   "price": {
     "originalPrice": 799,
     "discountedPrice": 516,
@@ -147,7 +196,22 @@
     "tagName": "WORLDWIDE BESTSELLER",
     "showBadge": false
   },
-  "metaData": {}
+  "metaData": {},
+  "aboutAuthor": [
+    "A professional investor and economist, known all over the world, Benjamin Graham is believed to be the father of value investing. He first taught this new investment approach at Columbia Business School. A British-born, he is credited with having pioneered numerous cutting edge concepts that, many believe, pushed several of his followers in the world of investments, to the top."
+  ],
+  "created_at": {
+    "$date": "2021-06-16T20:42:44.632Z"
+  },
+  "overview": [
+    "It is a widely acclaimed book by Benjamin Graham on value investing. Written by one of the greatest investment advisers of twentieth century, the book aims at preventing potential investors from substantial errors and also teaches them strategies to achieve long-term investment goals.",
+    "Over the years, investment market has been following teachings and strategies of Graham for growth and development. In the book, Graham has explained various principles and strategies for investing safely and successfully without taking bigger risks. Modern-day investors still continue to use his proven and well-executed techniques for value investment.",
+    "The current edition highlights some of the important concepts that are useful for latest financial orders and plans. Keeping Graham's unique text in original form, the book focuses on major principles that can be applied in day-to-day life. All the concepts and principles are explained with the help of examples for better clarity and understanding of the financial world.",
+    "Combination of original plan of Graham and the current financial situations are the reason behind this book’s preference today’s investors. It is a detailed version with several wisdom quotes that are likely to change one’s investing career and lead to the path of financial safety and security."
+  ],
+  "updated_at": {
+    "$date": "2021-06-16T20:42:44.632Z"
+  }
 },{
   "name": "Common Sense on Mutual Funds",
   "description": "Hardcover",
@@ -155,7 +219,9 @@
     "https://images-na.ssl-images-amazon.com/images/I/81+VdrK1MIL.jpg"
   ],
   "inStock": true,
-  "categories": ["MUTUAL_FUNDS"],
+  "categories": [
+    "MUTUAL_FUNDS"
+  ],
   "price": {
     "originalPrice": 2474,
     "discountedPrice": 2249,
@@ -184,7 +250,21 @@
     "tagName": "",
     "showBadge": false
   },
-  "metaData": {}
+  "metaData": {},
+  "aboutAuthor": [
+    "JOHN C. BOGLE is founder and former chairman of the Vanguard Group of mutual funds and President of its Bogle Financial Markets Research Center. After creating Vanguard in 1974, he served as chairman and chief executive officer until 1996 and senior chairman until 2000. Bogle is the author of ten books, including Enough: True Measures of Money, Business, and Life, The Little Book of Common Sense Investing, and Clash of the Cultures: Investment vs. Speculation, all published by Wiley"
+  ],
+  "created_at": {
+    "$date": "2021-06-16T20:47:41.218Z"
+  },
+  "overview": [
+    "Since the first edition of Common Sense on Mutual Funds was published in 1999, much has changed, and no one is more aware of this than mutual fund pioneer John Bogle. Now, in this completely updated Second Edition, Bogle returns to take another critical look at the mutual fund industry and help investors navigate their way through the staggering array of investment alternatives that are available to them.",
+    "Written in a straightforward and accessible style, this reliable resource examines the fundamentals of mutual fund investing in today's turbulent market environment and offers timeless advice in building an investment portfolio. Along the way, Bogle shows you how simplicity and common sense invariably trump costly complexity, and how a low cost, broadly diversified portfolio is virtually assured of outperforming the vast majority of Wall Street professionals over the long-term.",
+    "Securing your financial future has never seemed more difficult, but you'll be a better investor for having read the Second Edition of Common Sense on Mutual Funds."
+  ],
+  "updated_at": {
+    "$date": "2021-06-16T20:47:41.218Z"
+  }
 },{
   "name": "Think and Grow Rich",
   "description": "Paperback",
@@ -192,7 +272,9 @@
     "https://images-na.ssl-images-amazon.com/images/I/71AdHA+qqwL.jpg"
   ],
   "inStock": true,
-  "categories": ["PERSONAL_FINANCE"],
+  "categories": [
+    "PERSONAL_FINANCE"
+  ],
   "price": {
     "originalPrice": 175,
     "discountedPrice": 139,
@@ -221,7 +303,22 @@
     "tagName": "",
     "showBadge": false
   },
-  "metaData": {}
+  "metaData": {},
+  "aboutAuthor": [
+    "Napoleon Hill was an American author who was one of the earliest producers of the modern genre of personal-success literature. His most famous work, 'Think and Grow Rich', is one of the best-selling books of all time. In America, Hill's works examined the power of personal beliefs, and the role they play in personal success. How achievement actually occurs, and a formula for it that puts success in reach for the average person, are the promise of Hill's books. 'The Law of Success' was his major work."
+  ],
+  "created_at": {
+    "$date": "2021-06-16T20:49:57.796Z"
+  },
+  "overview": [
+    "The most famous of all teachers of success spent a fortune and the better part of a lifetime of effort to produce the Law of Success philosophy that forms the basis of his books and that is so powerfully summarized and explained for the general public in this book.",
+    "In Think and Grow Rich, Hill draws on stories of Andrew Carnegie, Thomas Edison, Henry Ford, and other millionaires of his generation to illustrate his principles. This book will teach you the secrets that could bring you a fortune. It will show you not only what to do but how to do it. Once you learn and apply the simple, basic techniques revealed here, you will have mastered the secret of true and lasting success.",
+    "Money and material things are essential for freedom of body and mind, but there are some who will feel that the greatest of all riches can be evaluated only in terms of lasting friendships, loving family relationships, understanding between business associates, and introspective harmony which brings one true peace of mind! All who read, understand, and apply this philosophy will be better prepared to attract and enjoy these spiritual values.",
+    "BE PREPARED! When you expose yourself to the influence of this philosophy, you may experience a CHANGED LIFE which can help you negotiate your way through life with harmony and understanding and prepare you for the accumulation of abundant material riches."
+  ],
+  "updated_at": {
+    "$date": "2021-06-16T20:49:57.796Z"
+  }
 },{
   "name": "Mutual Fund Industry Handbook",
   "description": "Hardcover",
@@ -229,7 +326,9 @@
     "https://images-na.ssl-images-amazon.com/images/I/61oUxSWaolL.jpg"
   ],
   "inStock": true,
-  "categories": ["MUTUAL_FUNDS"],
+  "categories": [
+    "MUTUAL_FUNDS"
+  ],
   "price": {
     "originalPrice": 5782,
     "discountedPrice": 5782,
@@ -258,7 +357,22 @@
     "tagName": "",
     "showBadge": false
   },
-  "metaData": {}
+  "metaData": {},
+  "aboutAuthor": [
+    "LEE GREMILLION is a former partner at PricewaterhouseCoopers where he provided operations and systems expertise to many U.S. mutual funds, insurance companies, investment managers, pension administrators, and banks.¿ He earned a doctoral degree from Harvard Business School and was professor of management information systems at Indiana University and Boston University. Dr. Gremillion worked for IBM and The Colonial Group, Inc., before joining PricewaterhouseCoopers.",
+    "THE BOSTON INSTITUTE OF FINANCE (BIF) (www.bostonifi.com) develops and distributes multimedia and interactive learning solutions for professionals in the financial services industry. BIF possesses the largest digital repository of training material in the industry and manages the certification and training programs of thousands of corporate and individual learners in the United States and around the world.",
+    "THE NATIONAL INVESTMENT COMPANY SERVICE ASSOCIATION (NICSA) is a not-for-profit trade association serving the operations sector of the mutual fund industry worldwide. NICSA provides leadership, education programs, and information exchanges to its members, which consists of over 400 companies worldwide."
+  ],
+  "created_at": {
+    "$date": "2021-06-17T16:13:00.598Z"
+  },
+  "overview": [
+    "'The Mutual Fund Industry Handbook is a remarkably important work . . . I am profoundly impressed by the broad and comprehensive sweep of information and knowledge that this book makes available to industry participants, college and business school students, and anyone else with a serious interest in this industry.' -- From the Foreword by John C. Bogle President, Bogle Financial Markets Research Center Founder and former chief executive, The Vanguard Group. A Foreword by John C. Bogle, founder of The Vanguard Group and one of the most respected leaders in the mutual fund industry, sets the stage for this authoritative book that explains the complexities of the phenomenal industry in simple terms.",
+    "Investors like the fact that mutual funds offer professional management, easy diversification, liquidity, convenience, a wide range of investment choices, and regulatory protection. Mutual Fund Industry Handbook touches on all of those features and focuses on the diverse functions performed in the day-to-day operations of the mutual fund industry."
+  ],
+  "updated_at": {
+    "$date": "2021-06-17T16:13:00.598Z"
+  }
 },{
   "name": "Let's Talk Money",
   "description": "Paperback",
@@ -267,7 +381,9 @@
     "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528548080i/40499078._UY499_SS499_.jpg"
   ],
   "inStock": true,
-  "categories": ["PERSONAL_FINANCE"],
+  "categories": [
+    "PERSONAL_FINANCE"
+  ],
   "price": {
     "originalPrice": 399,
     "discountedPrice": 257,
@@ -296,7 +412,21 @@
     "tagName": "NATIONAL BESTSELLER",
     "showBadge": true
   },
-  "metaData": {}
+  "metaData": {},
+  "aboutAuthor": [
+    "Monika Halan is consulting editor and part of the leadership team at Mint. A certified financial planner, she has served as editor of Outlook Money and worked in some of India's top media organizations, including the Indian Express, the Economic Times and Business Today. She has run four successful TV series around personal finance advice, on NDTV, Zee and Bloomberg India, and is a regular speaker on financial literacy, regulation and consumer issues in retail finance. As part of her public policy service, she is a member of SEBI's Mutual Fund Advisory Committee. She lives in New Delhi and tweets at @monikahalan."
+  ],
+  "created_at": {
+    "$date": "2021-06-17T16:14:26.448Z"
+  },
+  "overview": [
+    "We work hard to earn our money. But regardless of how much we earn, the money worry never goes away. Bills, rent, EMIs, medical costs, vacations, kids' education and, somewhere at the back of the head, the niggling fear of being underprepared for our own retirement.",
+    "Wouldn't it be wonderful if our money worked for us just as we work hard for it? What if we had a proven system to identify dud investment schemes? What if we could just plug seamlessly into a simple, jargon-free plan to get more value out of our money for tomorrow, and have a super good life today as well?",
+    "India's most trusted name in personal finance, Monika Halan offers you a feet-on-the-ground system to build financial security. Not a get-rich-quick guide, this book provides you a smarter way to live your dream life, rather than stay worried about the 'right' investment or 'perfect' insurance. Unlike many personal finance books, Let's Talk Money is written specifically for you, keeping the Indian context in mind."
+  ],
+  "updated_at": {
+    "$date": "2021-06-17T16:14:26.448Z"
+  }
 },{
   "name": "The Science of Getting Rich with The Science of Being Great",
   "description": "Paperback",
@@ -304,7 +434,9 @@
     "https://images-na.ssl-images-amazon.com/images/I/61eRa5sjCWL.jpg"
   ],
   "inStock": true,
-  "categories": ["PERSONAL_FINANCE"],
+  "categories": [
+    "PERSONAL_FINANCE"
+  ],
   "price": {
     "originalPrice": 150,
     "discountedPrice": 99,
@@ -333,7 +465,19 @@
     "tagName": "",
     "showBadge": false
   },
-  "metaData": {}
+  "metaData": {},
+  "aboutAuthor": [
+    "An American author and a New Thought writer, Wallace D. Wattles (1860-1911) practiced the techniques of creative visualizations and the New Thought principles he discovered. His powerful books, The Science of Getting Rich (1910) and The Science of Being Great (1910), are considered among the greatest works in self-help literature."
+  ],
+  "created_at": {
+    "$date": "2021-06-17T16:15:53.133Z"
+  },
+  "overview": [
+    "'You can become what you want to be.' a combined, modernized, and updated edition of Wallace br>D Wattles’ two bestselling works, the science of getting rich and the science of being great, this book is considered a philosophy of mind Science. With time-tested new thought principles and practices, including the technique of creative visualization, which Wattles himself practiced, it explains how riches come to us and how by simply using our will, acting in a certain way, and thinking The right thoughts, we can become rich and great. A compelling self-help classic, this book will help you understand the secrets to attaining what you truly desire."
+  ],
+  "updated_at": {
+    "$date": "2021-06-17T16:15:53.133Z"
+  }
 },{
   "name": "The Psychology of Money",
   "description": "Paperback",
@@ -342,7 +486,9 @@
     "https://www.onlinebooksoutlet.com/wp-content/uploads/2021/01/buy-the-psychology-of-money-online-OnlineBooksOutlet-600x651.jpg"
   ],
   "inStock": true,
-  "categories": ["PERSONAL_FINANCE"],
+  "categories": [
+    "PERSONAL_FINANCE"
+  ],
   "price": {
     "originalPrice": 399,
     "discountedPrice": 299,
@@ -371,7 +517,19 @@
     "tagName": "WORLDWIDE BESTSELLER",
     "showBadge": true
   },
-  "metaData": {}
+  "metaData": {},
+  "aboutAuthor": [
+    "Morgan Housel is a partner at The Collaborative Fund and a former columnist at The Motley Fool and The Wall Street Journal. He is a two-time winner of the Best in Business Award from the Society of American Business Editors and Writers, winner of the New York Times Sidney Award, and a two-time finalist for the Gerald Loeb Award for Distinguished Business and Financial Journalism."
+  ],
+  "created_at": {
+    "$date": "2021-06-17T16:17:24.493Z"
+  },
+  "overview": [
+    "Timeless lessons on wealth, greed, and happiness doing well with money isn’t necessarily about what you know. It’s about how you behave. And behavior is hard to teach, even to really smart people. How to manage money, invest it, and make business decisions are typically considered to involve a lot of mathematical calculations, where data and formulae tell us exactly what to do. But in the real world, people don’t make financial decisions on a spreadsheet. They make them at the dinner table, or in a meeting room, where personal history, your unique view of the world, ego, pride, marketing, and odd incentives are scrambled together. In the psychology of money, the author shares 19 short stories exploring the strange ways people think about money and teaches you how to make better sense of one of life’s most important matters."
+  ],
+  "updated_at": {
+    "$date": "2021-06-17T16:17:24.493Z"
+  }
 },{
   "name": "Master Your Money, Master Your Life",
   "description": "Paperback",
@@ -380,7 +538,9 @@
     "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552248357i/44323884._UY574_SS574_.jpg"
   ],
   "inStock": true,
-  "categories": ["PERSONAL_FINANCE"],
+  "categories": [
+    "PERSONAL_FINANCE"
+  ],
   "price": {
     "originalPrice": 295,
     "discountedPrice": 242,
@@ -409,7 +569,19 @@
     "tagName": "NATIONAL BESTSELLER",
     "showBadge": true
   },
-  "metaData": {}
+  "metaData": {},
+  "aboutAuthor": [
+    "Abhishek Kumar has earned a Master of Financial Engineering from University of California, Los Angeles, an MBA from Indian Institute of Management Kozhikode and a B. Tech in Electronics Engineering from Indian Institute of Technology (BHU) Varanasi. Having devoted a considerable part of his working life to understand, integrate and deepen the concepts surrounding personal finance and investments, he has focused on presenting practical and easily implementable solutions to his readers which are based on timeless wisdom of wealth creation and accumulation. He is also a critic of the conventional ways of managing money which he says have been designed not to help the investors but the financial institutions and the intermediaries which reap benefits by exploiting the ignorance of people. His first book the Richest Engineer was published in 2016."
+  ],
+  "created_at": {
+    "$date": "2021-06-17T16:18:43.057Z"
+  },
+  "overview": [
+    "Discover the five funds funda approach when it comes to money, ignorance is definitely not bliss. In fact, ignorance is your biggest enemy—stopping you from living a life of abundance and happiness. This practical and powerful book—never relying on any jargon—busts popular myths, bares open financial secrets and empowers you to be a master of your own financial destiny with a unique five funds funda approach. Inspiring and actionable, this book will transform your life—not just financially, but also holistically."
+  ],
+  "updated_at": {
+    "$date": "2021-06-17T16:18:43.057Z"
+  }
 },{
   "name": "Value Investing and Behavioral Finance",
   "description": "Hardcover",
@@ -418,7 +590,11 @@
     "https://images-eu.ssl-images-amazon.com/images/I/51fcFy61cCL._AC_UL600_SR600,600_.jpg"
   ],
   "inStock": false,
-  "categories": ["PERSONAL_FINANCE", "STOCKS", "MUTUAL_FUNDS"],
+  "categories": [
+    "PERSONAL_FINANCE",
+    "STOCKS",
+    "MUTUAL_FUNDS"
+  ],
   "price": {
     "originalPrice": 609,
     "discountedPrice": 609,
@@ -447,7 +623,22 @@
     "tagName": "NATIONAL BESTSELLER",
     "showBadge": true
   },
-  "metaData": {}
+  "metaData": {},
+  "aboutAuthor": [
+    "Parag Parikh is an entrepreneur focussed on finances, stock markets and value investments. He has been an author of several books on financial topics. Apart from this book he has written another book by the name Stocks To Riches: Insights On Investor Behaviour."
+  ],
+  "created_at": {
+    "$date": "2021-06-17T16:20:21.931Z"
+  },
+  "overview": [
+    "'When others are greedy be fearful and when others are fearful be greedy'-ill-timed bouts of greed and fear among investors make stock markets volatile. Ratinal and successful investing is all about restraining and channelizing these emotions and understanding behavioral finance, not market sentiments, crowd behavior or company performances.",
+    "At a time when market upheavals are eroding investors' confidence, dooming life's earnings and corporate fortunes, and shipping up mass hysteria-Value Investing and Behavioral Finance comes as an antidote to investor anxiety and a guide to sane and safe investment decisions. Using investing trends in Indian capital markets over the last three decades, it shows how collective behavioral biases affect investment decisions, returns and market vagaries. As a corrective, it spells out long-term value and contrarian investing strategies based on the principles of behavioral finance.",
+    "Further, it advises on how to spot investment opportunities and pitfalls in commodity stocks, growth stock, PSUs, IPOs, sectors and index stocks. It also alerts the reader to a 'bubble' or crisis situation, and ways to identify and insure against it.",
+    "Value Investing and Behavioral Finance, a timely offering from a seasoned investment strategist, is a must read for stock brokers, bankers, lay investors, portfolio manager, fund manager, and students of finance."
+  ],
+  "updated_at": {
+    "$date": "2021-06-17T16:20:21.931Z"
+  }
 },{
   "name": "The Joys Of Compounding: The Passionate Pursuit of Lifelong Learning",
   "description": "Paperback",
@@ -456,7 +647,12 @@
     "https://images-eu.ssl-images-amazon.com/images/I/71WTpEDFZQL._AC_UL600_SR600,600_.jpg"
   ],
   "inStock": true,
-  "categories": ["PERSONAL_FINANCE", "REAL_ESTATE", "STOCKS", "MUTUAL_FUNDS"],
+  "categories": [
+    "PERSONAL_FINANCE",
+    "REAL_ESTATE",
+    "STOCKS",
+    "MUTUAL_FUNDS"
+  ],
   "price": {
     "originalPrice": 499,
     "discountedPrice": 324,
@@ -485,7 +681,21 @@
     "tagName": "NATIONAL BESTSELLER",
     "showBadge": true
   },
-  "metaData": {}
+  "metaData": {},
+  "aboutAuthor": [
+    "Gautam Baid, CFA, is portfolio manager at an SEC-registered investment advisor based in Salt Lake City, Utah. Previously, he served at the Mumbai, London, and Hong Kong offices of Citigroup and Deutsche Bank as senior analyst in their healthcare investment banking teams. Baid is a CFA charterholder and member of CFA Institute, and in 2018 and 2019 he was profiled in Morningstar's Learn from the Masters series."
+  ],
+  "created_at": {
+    "$date": "2021-06-17T16:21:55.022Z"
+  },
+  "overview": [
+    "Value investing is not just a system for success in the market. It is also an intellectual toolkit for achieving a deeper understanding of the world. In The Joys of Compounding, the value investor Gautam Baid builds a holistic approach to value investing and philosophy from his wide-ranging reading, combining practical approaches, self-cultivation, and business wisdom.",
+    "Distilling investment and life lessons into a comprehensive guide, Baid integrates the strategies and wisdom of preeminent figures whose teachings have stood the test of time. Drawing on the work of investing greats like Warren Buffett, Charlie Munger, and Ben Graham, as well as philosophers and scholars, he artfully interweaves the lessons learned from his many teachers. Baid demonstrates their practical applications in the areas of business, investing, and decision making and also shows that these ideas can be applied to one's own life with just as much reward.",
+    "A celebration of the value investing discipline, this book also recounts Baid's personal experiences, testifying to his belief that the best investment you can make is an investment in yourself. The Joys of Compounding offers curated reflections on life and learning for all investors, investment enthusiasts, and readers seeking a dose of practical wisdom."
+  ],
+  "updated_at": {
+    "$date": "2021-06-17T16:21:55.022Z"
+  }
 },{
   "name": "The Richest Engineer",
   "description": "Paperback",
@@ -494,7 +704,9 @@
     "https://www.booklane.in/image/cache/catalog/product/pibd2/the-richest-engineer-250x250.jpg"
   ],
   "inStock": true,
-  "categories": ["PERSONAL_FINANCE"],
+  "categories": [
+    "PERSONAL_FINANCE"
+  ],
   "price": {
     "originalPrice": 350,
     "discountedPrice": 278,
@@ -523,7 +735,22 @@
     "tagName": "NATIONAL BESTSELLER",
     "showBadge": true
   },
-  "metaData": {}
+  "metaData": {},
+  "aboutAuthor": [
+    "A graduate of IIT-BHU Varanasi, IIM Kozhikode and University of California, Los Angeles (UCLA), Abhishek Kumar has worked as a Software Engineer for a leading MNC and then as a Corporate Banker for a leading Indian Private Sector Bank.",
+    "Having devoted a considerable part of his working life to understand, integrate and deepen the concepts surrounding personal finance, Abhishek has focused on bringing out books on wealth creation and accumulation which can be read and understood by everyone. The advice presented in his books is based on the timeless wisdom of wealth creation and is always practical and easily implementable.",
+    "He is also a critic of the conventional ways of managing money which he says have been designed not to help the investor but the institutions and the intermediaries which reap benefits by exploiting the ignorance of people."
+  ],
+  "created_at": {
+    "$date": "2021-06-17T16:23:33.809Z"
+  },
+  "overview": [
+    "VIn the Richest Engineer Mastering the Inner Art of Wealth Creation, his maiden book, Abhishek Kumar reveals the timeless wisdom of wealth creation and accumulation and shows how anybody no matter where they stand in life at this time can become a millionaire. The ideas provided in book are not getrich- quick formulas, but they do guide the reader to financial independence, which he says, can be achieved on nothing more than an average salary.",
+    "Through fictional conversations between two friends, Vinay - the financial wizard and Ajay, his college mate, you will learn exactly what has been stopping you from becoming rich and how you can change yourself to live the life you always dreamt of a life of wealth, abundance and financial freedom."
+  ],
+  "updated_at": {
+    "$date": "2021-06-17T16:23:33.809Z"
+  }
 },{
   "name": "The Compound Effect",
   "description": "Hardcover",
@@ -532,7 +759,9 @@
     "https://target.scene7.com/is/image/Target/GUEST_3cdc6b14-7de2-4a06-9454-fb60b6d954aa?wid=488&hei=488&fmt=pjpeg"
   ],
   "inStock": true,
-  "categories": ["PERSONAL_FINANCE"],
+  "categories": [
+    "PERSONAL_FINANCE"
+  ],
   "price": {
     "originalPrice": 1899,
     "discountedPrice": 999,
@@ -561,7 +790,19 @@
     "tagName": "WORLDWIDE BESTSELLER",
     "showBadge": true
   },
-  "metaData": {}
+  "metaData": {},
+  "aboutAuthor": [
+    "Darren Hardy has been a leader in the personal-development industry for many years now, having led two personal development-based television networks―The People's Network (TPN), and The Success Training Network (TSTN)―producing and launching more than a thousand TV shows, live events, and products and programs with many of the world's top experts. Darren is a product of the principles he reveals in The Compound Effect. As an entrepreneur, he was earning a six-figure income by age eighteen, more than a million dollars a year by age twenty-four, and owned a company producing US$ 50 million a year in revenue by age twenty-seven. He has mentored thousands of entrepreneurs, advised many large corporations, and serves on the board of several companies and nonprofit organizations. He has interviewed leading experts on human performance and achievement, as well as many of today's top CEOs, revolutionary entrepreneurs, superstar athletes, entertainers, and Olympic champions, to uncover and share the secrets behind their extraordinary success. He is a popular keynote speaker and appears regularly on national radio and shows on prominent TV networks."
+  ],
+  "created_at": {
+    "$date": "2021-06-17T16:24:42.875Z"
+  },
+  "overview": [
+    "In The Compound Effect, Darren Hardy, reveals the core principles that drive success. and presents a distillation of the fundamental principles that have guided the most phenomenal successes in business, relationships, and beyond. This is an easy-to-use, step-by-step, no gimmicks, no hyperbole, no magic bullet operating system that allows you to multiply your success, chart your progress, and achieve anything you desire. It is based on the principle that decisions shape your destiny and how little, everyday decisions will, by default, either take you to the life you desire or to disaster. If you're serious about living an extraordinary life, use the power of The Compound Effect to create the success you want. This book will teach you: . How to win—every time. Eradicating your bad habits, some of which even you might be unaware of. how to get yourself to do things you don’t feel like doing. Capturing the elusive, awesome force of momentum. The acceleration secrets of super achievers etc., among other things."
+  ],
+  "updated_at": {
+    "$date": "2021-06-17T16:24:42.875Z"
+  }
 },{
   "name": "One Up On Wall Street",
   "description": "Paperback",
@@ -570,7 +811,10 @@
     "https://cf.shopee.sg/file/652907f6bdd58d314f0bc638afbfc31d"
   ],
   "inStock": true,
-  "categories": ["PERSONAL_FINANCE", "STOCKS"],
+  "categories": [
+    "PERSONAL_FINANCE",
+    "STOCKS"
+  ],
   "price": {
     "originalPrice": 599,
     "discountedPrice": 445,
@@ -599,5 +843,18 @@
     "tagName": "WORLDWIDE BESTSELLER",
     "showBadge": true
   },
-  "metaData": {}
+  "metaData": {},
+  "aboutAuthor": [
+    "Peter Lynch is an American businessman and stock investor. He works as a manager of the Magellan Fund at Fidelity Investments between 1977 and 1990, Lynch averaged at 29.2% annual return, continuously more than doubling the S&P 500 market index and making it the best performing mutual fund in the globe. Lynch is continuously explained as a 'legend' by the financial media for his performance record and was called 'legendary' by Jason Zweig in his 2003 update of Benjamin Graham's book, The Intelligent Investor."
+  ],
+  "created_at": {
+    "$date": "2021-06-17T16:26:13.892Z"
+  },
+  "overview": [
+    "Penned by the famous mutual-fund manager, Peter Lynch, this book elaborates the many advantages that an average investor has over professionals and how they can help them reach financial triumph.",
+    "How To Use What You Already Know To Make Money in The Market explains how your knowledge alone can assist you beat the pros of investing. From the viewpoint of America's most triumphant money manager, investment chances are extensively accessible. Whether supermarket or work place, you can find goods and services everywhere. You have to select these organizations in which to invest, before they are found by skilled analysts. You will find more interesting knowledge on investment. Thus the book has become one of the best seller and treasure among readers. Moreover, this book provides time less recommendation on money business. This book has discussed the tips, ebb and flows on building it big in the investment market."
+  ],
+  "updated_at": {
+    "$date": "2021-06-17T16:26:13.892Z"
+  }
 }]
