@@ -4,6 +4,9 @@ const cors = require('cors');
 const { initializeDBConnection } = require("./db/db.connect.js");
 const {routeNotFoundHandler} = require("./middlewares/routeNotFoundHandler.js");
 const {errorHandler} = require("./middlewares/errorHandler.js");
+
+const signupRouter = require("./v1.0/routes/signup.route.js");
+const loginRouter = require("./v1.0/routes/login.route.js");
 const productRouter = require("./v1.0/routes/product.routes.js");
 const campaignRouter = require("./v1.0/routes/campaign.routes.js");
 
@@ -17,6 +20,8 @@ const app = express();
 app.use(cors());
 
 // Routes
+app.use("/api/v1/signup", signupRouter);
+app.use("/api/v1/login", loginRouter);
 app.use("/api/v1/products", productRouter);
 app.use("/api/v1/campaigns", campaignRouter);
 
