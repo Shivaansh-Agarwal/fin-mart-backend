@@ -34,7 +34,7 @@ router.route("/").post(async (req, res) => {
       success: true,
       message: "Signup Successful",
       token: token,
-      data: savedUser,
+      user: savedUser,
     });
   } catch (e) {
     console.log(e);

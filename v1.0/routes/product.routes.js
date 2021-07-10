@@ -19,12 +19,13 @@ router
       res.status(200).json({
         success: true,
         message: "Products fetched successfully",
-        products: products,
+        data: products,
       });
     } catch (e) {
       res.status(400).json({
         success: false,
         message: "Error while fetching products",
+        data: []
       });
     }
   })
@@ -35,13 +36,14 @@ router
       res.status(201).json({
         success: true,
         message: "Product added successfully",
-        product: savedProduct,
+        data: savedProduct,
       });
     } catch (e) {
       console.error(e);
       res.status(500).json({
         success: false,
         message: "Error while creating product",
+        data: []
       });
     }
   });
@@ -53,6 +55,7 @@ router.param("id", async (req, res, next, id) => {
       res.status(400).json({
         success: false,
         message: "Product with the given id not found",
+        data: []
       });
     }
     req.product = product;
@@ -61,6 +64,7 @@ router.param("id", async (req, res, next, id) => {
     res.status(400).json({
       success: false,
       message: "Error while fetching product",
+      data: []
     });
   }
 });
@@ -72,7 +76,7 @@ router
     res.status(200).json({
       success: true,
       message: "Product fetched successfully",
-      product: product,
+      data: product,
     });
   })
   .post(async (req, res) => {
@@ -84,12 +88,13 @@ router
       res.status(200).json({
         success: true,
         message: "Product updated successfully",
-        product: product,
+        data: product,
       });
     } catch (e) {
       res.status(500).json({
         success: false,
         message: "Error while updating product",
+        data: [],
       });
     }
   })
@@ -101,12 +106,13 @@ router
       res.status(200).json({
         success: true,
         message: "Product Deleted Successfully",
-        product: product,
+        data: product,
       });
     } catch (e) {
       res.status(500).json({
         success: false,
         message: "Error while updating product",
+        data: []
       });
     }
   });

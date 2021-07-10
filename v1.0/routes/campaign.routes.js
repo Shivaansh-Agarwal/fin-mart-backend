@@ -14,12 +14,13 @@ router
       res.status(200).json({
         success: true,
         message: "Campaigns fetched successfully",
-        campaigns: data,
+        data: data,
       });
     } catch (e) {
       res.status(400).json({
         success: false,
         message: "Error while fetching Campaigns",
+        data: []
       });
     }
   })
@@ -30,13 +31,14 @@ router
       res.status(201).json({
         success: true,
         message: "Campaign added successfully",
-        campaign: savedCampaign,
+        data: savedCampaign,
       });
     } catch (e) {
       console.error("##########",e);
       res.status(500).json({
         success: false,
         message: "Error while creating Campaign",
+        data: []
       });
     }
   })
