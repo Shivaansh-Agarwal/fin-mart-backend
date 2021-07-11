@@ -33,12 +33,20 @@ router.route("/").post(async (req, res) => {
     res.status(201).json({
       success: true,
       message: "Signup Successful",
-      token: token,
-      user: savedUser,
+      data: {
+        token: token,
+        user: savedUser,
+      },
     });
   } catch (e) {
     console.log(e);
-    res.status(400).json({ success: false, message: "Signup unsuccessful" });
+    res
+      .status(400)
+      .json({
+        success: false,
+        message: "Signup unsuccessful",
+        data: undefined,
+      });
   }
 });
 

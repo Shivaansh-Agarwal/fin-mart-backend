@@ -14,30 +14,37 @@ router.use(logger);
 
 router.route("/").post(async (req, res) => {
   try {
-    const { username, password } = req.body;
-    const user = await User.find({ username });
+    const { email, password } = req.body;
+    console.log(email, password);
+    const dbResult = await User.find({ 'email': email });
+    const user = (dbResult && dbResult.length===1) ? dbResult[0] : null;
     console.log("LOGIN Route", user);
     if (user) {
       const match = await bcrypt.compare(password, user.password);
+      console.log(match);
       if (match) {
         const token = jwt.sign({ userId: user._id }, privateKey, {
           expiresIn: "24h",
         });
         res.status(200).json({
           success: true,
-          token: token,
+          message: "Login Successful!",
+          data:{
+            token: token,
+            user: user
+          }
         });
       }
     } else {
       res.status(401).json({
         success: false,
-        msg: "Incorrect username or password",
+        message: "Incorrect username or password",
       });
     }
   } catch (err) {
     res.status(401).json({
       success: false,
-      msg: "Incorrect username or password",
+      message: "Incorrect username or password",
     });
   }
 });
